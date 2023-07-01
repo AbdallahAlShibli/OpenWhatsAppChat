@@ -1,16 +1,15 @@
-# whatsapp_sgin_number
+# WhatsApp Sgin Number
 
-A new Flutter project.
+A Flutter project that allows you to past a WhatsApp phone number to start chatting with.
 
-## Getting Started
+## Dependencies   
+I used 3 main dependencies in this project
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ # url_launcher: ^6.1.2
+ this can open URLs directly in the default phone browser.
+ 
+  # fluttertoast: ^8.2.2
+  to show a quick short message on the screen.
+  
+  # raised_buttons: ^0.0.2
+  a Material Desgine button.
